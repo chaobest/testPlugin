@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-testplugin",
+  "version": "0.0.1",
+  "description": "test plugin",
+  "cordova": {
+    "id": "cordova-plugin-testplugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Chao Wang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaobest/testPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chaobest/testPlugin/issues"
+  },
+  "homepage": "https://github.com/chaobest/testPlugin#readme"
+}
